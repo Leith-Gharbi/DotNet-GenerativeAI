@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TextCompletion": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
