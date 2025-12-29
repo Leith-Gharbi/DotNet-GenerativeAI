@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "TextCompletion.AI.Ollama": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
