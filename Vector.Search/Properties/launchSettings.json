@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Vector.Search": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
