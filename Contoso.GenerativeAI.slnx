@@ -2,6 +2,7 @@
   <Folder Name="/Embeddings/">
     <Project Path="Vector.Embeddings/Vector.Embeddings.csproj" Id="0e13c8d2-2fa1-4803-9bb9-23f3ac6b2f9b" />
     <Project Path="Vector.Search/Vector.Search.csproj" Id="37db4144-0396-48f9-b62a-d426e8c943aa" />
+    <Project Path="Vector.Serach.WithOllama/Vector.Serach.WithOllama.csproj" Id="c9b507fd-98c0-447f-969b-48e4180c2dcd" />
   </Folder>
   <Folder Name="/FunctionCall/">
     <Project Path="FunctionCall/FunctionCall.csproj" Id="12387064-f176-404b-bdf6-b9ee3bb16035" />

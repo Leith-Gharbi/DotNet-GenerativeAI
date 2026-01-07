@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Vector.Serach.WithOllama": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
