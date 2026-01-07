@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/Embeddings/">
+    <Project Path="Vector.Embeddings/Vector.Embeddings.csproj" Id="0e13c8d2-2fa1-4803-9bb9-23f3ac6b2f9b" />
+  </Folder>
   <Folder Name="/FunctionCall/">
     <Project Path="FunctionCall/FunctionCall.csproj" Id="12387064-f176-404b-bdf6-b9ee3bb16035" />
   </Folder>

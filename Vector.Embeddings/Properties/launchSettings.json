@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Vector.Embeddings": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
