@@ -3,7 +3,7 @@
 using Microsoft.Extensions.AI;
 using OllamaSharp;
 
-IChatClient client =
+IChatClient client = 
     new OllamaApiClient(new Uri("http://127.0.0.1:11434"), "deepseek-r1:1.5b");
 
 
