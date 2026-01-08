@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/ComputerVision/">
+    <Project Path="ImageAnalysis/ImageAnalysis.csproj" Id="9bcacaee-85d7-4362-9ad7-5b00d2502917" />
+  </Folder>
   <Folder Name="/Embeddings/">
     <Project Path="Vector.Embeddings/Vector.Embeddings.csproj" Id="0e13c8d2-2fa1-4803-9bb9-23f3ac6b2f9b" />
     <Project Path="Vector.Search/Vector.Search.csproj" Id="37db4144-0396-48f9-b62a-d426e8c943aa" />
